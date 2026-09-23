@@ -14,6 +14,7 @@ Which states contribute the most to sales?
 Which age groups place more orders?
 Which sales channel generates the most orders?
 How does sales performance change based on month, channel, and category?
+
 🛠️ Tools & Technologies
 Microsoft Excel
 PivotTables
@@ -22,6 +23,7 @@ Slicers
 Data Cleaning & Formatting
 Data Analysis
 Dashboard Design
+
 📌 Dashboard Features
 1. Orders vs Sales
 Shows the relationship between the total sales amount and number of orders.
@@ -41,6 +43,7 @@ Month
 Channel
 Category
 These filters allow users to interact with the dashboard and analyze specific parts of the sales data.
+
 📷 Dashboard Preview
 ![Vrinda Store Annual Sales Dashboard](dashboard.png)
 
@@ -53,6 +56,7 @@ Order status analysis
 State-wise sales performance
 Sales channel performance
 Category and monthly filtering
+
 📂 Project Structure
 Vrinda-Store-Annual-Sales-Dashboard/
 │
@@ -69,11 +73,13 @@ Data visualization
 Slicer-based filtering
 Business-oriented analysis
 Presenting data in a clear and user-friendly format
+
 🚀 How to Use
 Download the Excel workbook from this repository.
 Open the `.xlsx` file in Microsoft Excel.
 Use the slicers to filter the dashboard by month, channel, or category.
 Explore the charts to understand sales and order trends.
+
 👩‍💻 Author
 Divya Taware
 B.Sc. Computer Science | Data Analytics Enthusiast
