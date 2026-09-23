@@ -44,8 +44,6 @@ Channel
 Category
 These filters allow users to interact with the dashboard and analyze specific parts of the sales data.
 
-📷 Dashboard Preview
-![Vrinda Store Annual Sales Dashboard](dashboard.png)
 
 📈 Key Analysis Areas
 This dashboard focuses on:
