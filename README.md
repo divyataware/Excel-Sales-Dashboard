@@ -1,7 +1,9 @@
 Vrinda Store Annual Sales Dashboard 2022
+
 📊 Project Overview
 This project is an Excel-based sales dashboard created to analyze the annual sales performance of Vrinda Store for 2022.
 The dashboard provides an interactive view of orders, sales, customer demographics, order status, sales channels, and state-wise performance. Excel PivotTables, PivotCharts, slicers, and data analysis techniques were used to build the dashboard.
+
 🎯 Project Objective
 The main objective of this project is to understand sales performance and identify useful business insights from the store's order data.
 The dashboard helps answer questions such as:
